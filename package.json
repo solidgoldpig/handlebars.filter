@@ -1,0 +1,34 @@
+{
+    "name": "handlebars.filter",
+    "description": "Handlebars filter helper",
+    "version": "1.0.0",
+    "main": "handlebars.filter.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/solidgoldpig/handlebars.filter.git#1.0.0"
+    },
+    "homepage": "http://filter.handlebars.solidgoldpig.com",
+    "bugs": "https://github.com/solidgoldpig/handlebars.filter/issues",
+    "keywords": [
+        "handlebars",
+        "helper",
+        "substitution",
+        "filter"
+    ],
+    "dependencies": {
+        "markdown": ">=0.0.0"
+    },
+    "devDependencies": {
+        "handlebars": ">=0.0.0",
+        "jasmine-node": "^1.14.x",
+        "log": "^1.4.0"
+    },
+    "scripts": {
+        "test": "jasmine-node --verbose spec"
+    },
+    "author": {
+        "name": "Alex Robinson",
+        "email": "handlebars.filter@alex.solidgoldpig.com"
+    },
+    "license": "UNLICENSE"
+}
