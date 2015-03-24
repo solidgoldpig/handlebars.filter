@@ -1,1 +1,1 @@
-Auto-generated documentation for handlebars.choice
+Auto-generated documentation for handlebars.filter
